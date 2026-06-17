@@ -1,0 +1,70 @@
+using System.Text.Json.Serialization;
+
+namespace AEMAccessment.DTOs
+{
+
+    public class LoginRequest
+    {
+        [JsonPropertyName("username")]
+        public string Username { get; set; } = string.Empty;
+
+        [JsonPropertyName("password")]
+        public string Password { get; set; } = string.Empty;
+    }
+
+
+    public class LoginData
+    {
+        [JsonPropertyName("token")]
+        public string? Token { get; set; }
+    }
+
+    public class PlatformDto
+    {
+        [JsonPropertyName("id")]
+        public int Id { get; set; }
+
+        [JsonPropertyName("uniqueName")]
+        public string? UniqueName { get; set; }
+
+        [JsonPropertyName("latitude")]
+        public double? Latitude { get; set; }
+
+        [JsonPropertyName("longitude")]
+        public double? Longitude { get; set; }
+
+        [JsonPropertyName("createdAt")]
+        public DateTime? CreatedAt { get; set; }
+
+        [JsonPropertyName("updatedAt")]
+        public DateTime? UpdatedAt { get; set; }
+
+        [JsonPropertyName("well")]
+        public List<WellDto>? Well { get; set; }
+    }
+
+
+    public class WellDto
+    {
+        [JsonPropertyName("id")]
+        public int Id { get; set; }
+
+        [JsonPropertyName("platformId")]
+        public int PlatformId { get; set; }
+
+        [JsonPropertyName("uniqueName")]
+        public string? UniqueName { get; set; }
+
+        [JsonPropertyName("latitude")]
+        public double? Latitude { get; set; }
+
+        [JsonPropertyName("longitude")]
+        public double? Longitude { get; set; }
+
+        [JsonPropertyName("createdAt")]
+        public DateTime? CreatedAt { get; set; }
+
+        [JsonPropertyName("updatedAt")]
+        public DateTime? UpdatedAt { get; set; }
+    }
+}

@@ -1,0 +1,6 @@
+@AEMAccessment_HostAddress = http://localhost:5155
+
+GET {{AEMAccessment_HostAddress}}/swagger/
+Accept: application/json
+
+###

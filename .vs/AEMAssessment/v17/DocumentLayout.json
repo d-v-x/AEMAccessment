@@ -1,0 +1,188 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sq.SQP0122\\source\\repos\\AEMAccessment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{39F46D5B-0AE8-45A8-91E1-4B33F68B9456}|AEMAccessment\\AEMAccessment.csproj|c:\\users\\sq.sqp0122\\source\\repos\\aemaccessment\\aemaccessment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39F46D5B-0AE8-45A8-91E1-4B33F68B9456}|AEMAccessment\\AEMAccessment.csproj|solutionrelative:aemaccessment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39F46D5B-0AE8-45A8-91E1-4B33F68B9456}|AEMAccessment\\AEMAccessment.csproj|c:\\users\\sq.sqp0122\\source\\repos\\aemaccessment\\aemaccessment\\controllers\\synccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39F46D5B-0AE8-45A8-91E1-4B33F68B9456}|AEMAccessment\\AEMAccessment.csproj|solutionrelative:aemaccessment\\controllers\\synccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39F46D5B-0AE8-45A8-91E1-4B33F68B9456}|AEMAccessment\\AEMAccessment.csproj|c:\\users\\sq.sqp0122\\source\\repos\\aemaccessment\\aemaccessment\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39F46D5B-0AE8-45A8-91E1-4B33F68B9456}|AEMAccessment\\AEMAccessment.csproj|solutionrelative:aemaccessment\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39F46D5B-0AE8-45A8-91E1-4B33F68B9456}|AEMAccessment\\AEMAccessment.csproj|c:\\users\\sq.sqp0122\\source\\repos\\aemaccessment\\aemaccessment\\models\\platform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39F46D5B-0AE8-45A8-91E1-4B33F68B9456}|AEMAccessment\\AEMAccessment.csproj|solutionrelative:aemaccessment\\models\\platform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39F46D5B-0AE8-45A8-91E1-4B33F68B9456}|AEMAccessment\\AEMAccessment.csproj|c:\\users\\sq.sqp0122\\source\\repos\\aemaccessment\\aemaccessment\\models\\well.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39F46D5B-0AE8-45A8-91E1-4B33F68B9456}|AEMAccessment\\AEMAccessment.csproj|solutionrelative:aemaccessment\\models\\well.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39F46D5B-0AE8-45A8-91E1-4B33F68B9456}|AEMAccessment\\AEMAccessment.csproj|c:\\users\\sq.sqp0122\\source\\repos\\aemaccessment\\aemaccessment\\dtos\\apidtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39F46D5B-0AE8-45A8-91E1-4B33F68B9456}|AEMAccessment\\AEMAccessment.csproj|solutionrelative:aemaccessment\\dtos\\apidtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39F46D5B-0AE8-45A8-91E1-4B33F68B9456}|AEMAccessment\\AEMAccessment.csproj|c:\\users\\sq.sqp0122\\source\\repos\\aemaccessment\\aemaccessment\\service\\apisyncservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39F46D5B-0AE8-45A8-91E1-4B33F68B9456}|AEMAccessment\\AEMAccessment.csproj|solutionrelative:aemaccessment\\service\\apisyncservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39F46D5B-0AE8-45A8-91E1-4B33F68B9456}|AEMAccessment\\AEMAccessment.csproj|c:\\users\\sq.sqp0122\\source\\repos\\aemaccessment\\aemaccessment\\iservice\\iapisyncservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39F46D5B-0AE8-45A8-91E1-4B33F68B9456}|AEMAccessment\\AEMAccessment.csproj|solutionrelative:aemaccessment\\iservice\\iapisyncservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 680,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IApiSyncService.cs",
+              "DocumentMoniker": "C:\\Users\\sq.SQP0122\\source\\repos\\AEMAccessment\\AEMAccessment\\IService\\IApiSyncService.cs",
+              "RelativeDocumentMoniker": "AEMAccessment\\IService\\IApiSyncService.cs",
+              "ToolTip": "C:\\Users\\sq.SQP0122\\source\\repos\\AEMAccessment\\AEMAccessment\\IService\\IApiSyncService.cs",
+              "RelativeToolTip": "AEMAccessment\\IService\\IApiSyncService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-17T06:06:32.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sq.SQP0122\\source\\repos\\AEMAccessment\\AEMAccessment\\Program.cs",
+              "RelativeDocumentMoniker": "AEMAccessment\\Program.cs",
+              "ToolTip": "C:\\Users\\sq.SQP0122\\source\\repos\\AEMAccessment\\AEMAccessment\\Program.cs",
+              "RelativeToolTip": "AEMAccessment\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-17T05:44:19.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApiSyncService.cs",
+              "DocumentMoniker": "C:\\Users\\sq.SQP0122\\source\\repos\\AEMAccessment\\AEMAccessment\\Service\\ApiSyncService.cs",
+              "RelativeDocumentMoniker": "AEMAccessment\\Service\\ApiSyncService.cs",
+              "ToolTip": "C:\\Users\\sq.SQP0122\\source\\repos\\AEMAccessment\\AEMAccessment\\Service\\ApiSyncService.cs",
+              "RelativeToolTip": "AEMAccessment\\Service\\ApiSyncService.cs",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAgwMsAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-17T05:41:51.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApiDtos.cs",
+              "DocumentMoniker": "C:\\Users\\sq.SQP0122\\source\\repos\\AEMAccessment\\AEMAccessment\\DTOS\\ApiDtos.cs",
+              "RelativeDocumentMoniker": "AEMAccessment\\DTOS\\ApiDtos.cs",
+              "ToolTip": "C:\\Users\\sq.SQP0122\\source\\repos\\AEMAccessment\\AEMAccessment\\DTOS\\ApiDtos.cs",
+              "RelativeToolTip": "AEMAccessment\\DTOS\\ApiDtos.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-17T05:40:47.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Well.cs",
+              "DocumentMoniker": "C:\\Users\\sq.SQP0122\\source\\repos\\AEMAccessment\\AEMAccessment\\Models\\Well.cs",
+              "RelativeDocumentMoniker": "AEMAccessment\\Models\\Well.cs",
+              "ToolTip": "C:\\Users\\sq.SQP0122\\source\\repos\\AEMAccessment\\AEMAccessment\\Models\\Well.cs",
+              "RelativeToolTip": "AEMAccessment\\Models\\Well.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-17T05:40:26.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Platform.cs",
+              "DocumentMoniker": "C:\\Users\\sq.SQP0122\\source\\repos\\AEMAccessment\\AEMAccessment\\Models\\Platform.cs",
+              "RelativeDocumentMoniker": "AEMAccessment\\Models\\Platform.cs",
+              "ToolTip": "C:\\Users\\sq.SQP0122\\source\\repos\\AEMAccessment\\AEMAccessment\\Models\\Platform.cs",
+              "RelativeToolTip": "AEMAccessment\\Models\\Platform.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-17T05:39:32.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\sq.SQP0122\\source\\repos\\AEMAccessment\\AEMAccessment\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "AEMAccessment\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\sq.SQP0122\\source\\repos\\AEMAccessment\\AEMAccessment\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "AEMAccessment\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAoAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-17T05:22:23.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SyncController.cs",
+              "DocumentMoniker": "C:\\Users\\sq.SQP0122\\source\\repos\\AEMAccessment\\AEMAccessment\\Controllers\\SyncController.cs",
+              "RelativeDocumentMoniker": "AEMAccessment\\Controllers\\SyncController.cs",
+              "ToolTip": "C:\\Users\\sq.SQP0122\\source\\repos\\AEMAccessment\\AEMAccessment\\Controllers\\SyncController.cs",
+              "RelativeToolTip": "AEMAccessment\\Controllers\\SyncController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-17T05:18:18.386Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
